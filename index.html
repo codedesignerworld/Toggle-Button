@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Toggle Button</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="center">
+	  <input type="checkbox" id="cbx" style="display:none"/>
+	  <label for="cbx" class="toggle"><span></span></label>    
+	</div>  
+</body>
+</html>
